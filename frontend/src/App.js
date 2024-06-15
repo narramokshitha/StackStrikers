@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import AdminLogin from './components/Admin/AdminLogin';
+import AdminLogin from './components/Admin/AdminLogin.js';
 
 function App() {
   return (
