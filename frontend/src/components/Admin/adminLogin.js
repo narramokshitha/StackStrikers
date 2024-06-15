@@ -2,7 +2,9 @@ import React from 'react'
 
 function adminLogin() {
   return (
-    <div>oihx,ifuil</div>
+    <div> AdminAdmin
+        <h1>KJUHGTFDCFGHJ</h1>
+    </div>
   )
 }
 
